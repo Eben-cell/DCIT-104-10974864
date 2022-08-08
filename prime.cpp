@@ -1,3 +1,5 @@
+  // I am Ebenezer Asante Boateng (10974864).
+  // I pledge that I did the assignment all by myself.
 # include<iostream> 
 using namespace std;
 void AvgOfPrimeNum(){
